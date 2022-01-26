@@ -45,7 +45,7 @@ background-repeat:no-repeat;
 display:flex;
 justify-content:space-between;
 flex-direction:column;
-background-image: ${props => `url("/images/${props.bgImage}")`};
+background-image: ${props => `url("./images/${props.bgImage}")`};
 
 `
 
