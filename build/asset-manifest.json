@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Tesla-Clone/static/css/main.3c2f331a.chunk.css",
-    "main.js": "/Tesla-Clone/static/js/main.45d3f197.chunk.js",
-    "main.js.map": "/Tesla-Clone/static/js/main.45d3f197.chunk.js.map",
-    "runtime-main.js": "/Tesla-Clone/static/js/runtime-main.a6e0ea55.js",
-    "runtime-main.js.map": "/Tesla-Clone/static/js/runtime-main.a6e0ea55.js.map",
-    "static/js/2.235b553e.chunk.js": "/Tesla-Clone/static/js/2.235b553e.chunk.js",
-    "static/js/2.235b553e.chunk.js.map": "/Tesla-Clone/static/js/2.235b553e.chunk.js.map",
-    "index.html": "/Tesla-Clone/index.html",
-    "static/css/main.3c2f331a.chunk.css.map": "/Tesla-Clone/static/css/main.3c2f331a.chunk.css.map",
-    "static/js/2.235b553e.chunk.js.LICENSE.txt": "/Tesla-Clone/static/js/2.235b553e.chunk.js.LICENSE.txt",
-    "static/media/logo.b2e5a01e.svg": "/Tesla-Clone/static/media/logo.b2e5a01e.svg"
+    "main.css": "./static/css/main.3c2f331a.chunk.css",
+    "main.js": "./static/js/main.6c37adcc.chunk.js",
+    "main.js.map": "./static/js/main.6c37adcc.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.55c1e314.js",
+    "runtime-main.js.map": "./static/js/runtime-main.55c1e314.js.map",
+    "static/js/2.58fc7370.chunk.js": "./static/js/2.58fc7370.chunk.js",
+    "static/js/2.58fc7370.chunk.js.map": "./static/js/2.58fc7370.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.3c2f331a.chunk.css.map": "./static/css/main.3c2f331a.chunk.css.map",
+    "static/js/2.58fc7370.chunk.js.LICENSE.txt": "./static/js/2.58fc7370.chunk.js.LICENSE.txt",
+    "static/media/logo.b2e5a01e.svg": "./static/media/logo.b2e5a01e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a6e0ea55.js",
-    "static/js/2.235b553e.chunk.js",
+    "static/js/runtime-main.55c1e314.js",
+    "static/js/2.58fc7370.chunk.js",
     "static/css/main.3c2f331a.chunk.css",
-    "static/js/main.45d3f197.chunk.js"
+    "static/js/main.6c37adcc.chunk.js"
   ]
 }
